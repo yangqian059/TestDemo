@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: flags
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2b1a73e605db0914bac94f99ec956cab, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ef8484c168c7b6b4082e04058ecca43d, type: 3}
+  - {fileID: 21300000, guid: 3fa0e8f3827887c4cb4d2b56c619f6d5, type: 3}
+  - {fileID: 21300000, guid: 79426cf35f889fb44b1ab0d25b47c3a5, type: 3}
+  - {fileID: 21300000, guid: 10703cb4f4138944a9b5da8036734ead, type: 3}
+  - {fileID: 21300000, guid: 83b726f5c1f70c244ba924345aa0fd41, type: 3}
+  - {fileID: 21300000, guid: 1d6950469e8524a4c94c0fd8c982ff72, type: 3}
+  - {fileID: 21300000, guid: 7a64bc66f53ef034cb9257b50eca675e, type: 3}
+  - {fileID: 21300000, guid: 9da13c962d2a0724cbdfffd498afa7e8, type: 3}
+  - {fileID: 21300000, guid: c65546b6edd00e94290ac2cf3e965e32, type: 3}
+  - {fileID: 21300000, guid: 83a8f7c96b2730842893102f8f7cf13c, type: 3}
+  - {fileID: 21300000, guid: 4818de4ac428c6a408527aea31309ac1, type: 3}
+  - {fileID: 21300000, guid: 3a7be88aa8200c3489fd42e7daeea278, type: 3}
+  - {fileID: 21300000, guid: 81ca9d9bd3a3a584c9a746a79deb5750, type: 3}
+  - {fileID: 21300000, guid: 3f9b3ead5e37f324faa8b05274606574, type: 3}
+  - {fileID: 21300000, guid: 0ae345de13fb2884a8a370cec6a8e01e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - French
+  - Portuguese
+  - English
+  - Japanese
+  - Hungarian
+  - Indonesian
+  - German
+  - Arabic
+  - Romanian
+  - Italian
+  - Spanish
+  - Vietnamese
+  - Korean
+  - Thai
+  - Russian
+  m_Tag: flags
+  m_IsVariant: 0
