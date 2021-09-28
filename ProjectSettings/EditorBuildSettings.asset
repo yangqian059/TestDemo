@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CarouselFigure.unity
+    guid: 2390fb1e38b3d584b946921a22cd8abe
   m_configObjects: {}

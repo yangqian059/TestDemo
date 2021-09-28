@@ -5,21 +5,15 @@ using UnityEngine.UI;
 
 public class InfiniteScroll : MonoBehaviour
 {
-
     public Transform Top_;
     public Transform Bottom_;
-
 
     private ScrollRect scrollRect;
     private GameObject ItemGroup;
     private List<CtrItem> itemList;
 
-
     private RectTransform ViewPort;
     private RectTransform Content;
-
-
-    
 
     private int contentsNum = 600;
     private float contentHeight = 100;
